@@ -1,6 +1,6 @@
 {
     'name': 'Hospital Management System Bryo test',
-    'version': '1.1',
+    'version': '1.1 ',
     'category': 'Extra Tools',
     'sequence': '-100',
     'description': """Hospital Management System for testing for Bryo UG""",
@@ -9,6 +9,8 @@
     'license': 'LGPL-3',
     'website': 'https://www.bryo.io',
     'summary': 'Odoo 16 developement test module',
+    'price': 200.00,
+    'currency': 'EUR',
     'data': [
         'security/ir.model.access.csv',
         'views/menu.xml',
