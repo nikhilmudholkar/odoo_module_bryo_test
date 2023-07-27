@@ -1,6 +1,6 @@
 {
     'name': 'Hospital Management System Bryo test',
-    'version': '1.0',
+    'version': '1.1',
     'category': 'Extra Tools',
     'sequence': '-100',
     'description': """Hospital Management System for testing for Bryo UG""",
