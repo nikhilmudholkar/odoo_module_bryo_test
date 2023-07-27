@@ -1,5 +1,5 @@
 {
-    'name': 'Hospital Management System Bryo test',
+    'name': 'Bryo fulfillment copilot',
     'version': '1.1 ',
     'category': 'Extra Tools',
     'sequence': '-100',
