@@ -14,5 +14,6 @@
         'views/menu.xml',
         'views/patient.xml',
 
-    ]
+    ],
+    'images': ['static/description/banner.gif', 'static/description/icon.png']
 }
